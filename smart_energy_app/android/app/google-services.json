@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "804030111835",
+    "project_id": "energylyze",
+    "storage_bucket": "energylyze.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804030111835:android:daf48aa5daaffdfe495f7e",
+        "android_client_info": {
+          "package_name": "com.example.smart_energy_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2vgCsnb6SrNp5S0RsomWFbOhHluUe9Jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
